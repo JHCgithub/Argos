@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/project/Desktop/argos/argos3-examples/build/controllers/test_1/test_1_autogen/mocs_compilation.cpp
+
+/home/project/Desktop/argos/argos3-examples/controllers/test_1/test_1.cpp
+test_1.h
+/home/project/Desktop/argos/argos3-examples/controllers/test_1/test_1.h
+argos3/core/utility/configuration/argos_configuration.h
+-
+argos3/core/utility/math/vector2.h
+-
+
+/home/project/Desktop/argos/argos3-examples/controllers/test_1/test_1.h
+argos3/core/control_interface/ci_controller.h
+-
+argos3/plugins/robots/generic/control_interface/ci_differential_steering_actuator.h
+-
+argos3/plugins/robots/foot-bot/control_interface/ci_footbot_proximity_sensor.h
+-
+
